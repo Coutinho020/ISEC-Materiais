@@ -1,0 +1,11 @@
+# ninja log v5
+2	98	7636607458018205	CMakeFiles/Ficha5_Ex1.dir/main.c.obj	29fa233500b92e51
+98	234	7636607459333836	Ficha5_Ex1.exe	ae6628fddf39f0c0
+3	101	7636606593857972	CMakeFiles/Ficha5_Ex1.dir/retangulo.c.obj	f3de40d6c0ece16
+3	145	7636583133647671	CMakeFiles/Ficha5_Ex1.dir/ponto.c.obj	6d2a8ee8c8034a75
+2	103	7652203735038636	CMakeFiles/Ficha5_Ex1.dir/ponto.c.obj	d992f239688e580c
+9	112	7652203735128440	CMakeFiles/Ficha5_Ex1.dir/main.c.obj	fc03ed2b84f182bb
+17	120	7652203735242150	CMakeFiles/Ficha5_Ex1.dir/retangulo.c.obj	9a576951b2892958
+120	218	7652203736156225	Ficha5_Ex1.exe	ae6628fddf39f0c0
+2	101	7652210517719458	CMakeFiles/Ficha5_Ex1.dir/main.c.obj	fc03ed2b84f182bb
+102	203	7652210518721115	Ficha5_Ex1.exe	ae6628fddf39f0c0

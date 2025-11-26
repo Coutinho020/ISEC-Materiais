@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exame_2324_EN_Ex2_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exame_2324_EN_Ex2_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exame_2324_EN_Ex2_3-Debug-2278d8feb4e6b05e1274.json",
+					"name" : "Exame_2324_EN_Ex2_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1\u00ba Ano/Estudo Exames/Exame_2324_EN_Ex2_3/cmake-build-debug",
+		"source" : "C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1\u00ba Ano/Estudo Exames/Exame_2324_EN_Ex2_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

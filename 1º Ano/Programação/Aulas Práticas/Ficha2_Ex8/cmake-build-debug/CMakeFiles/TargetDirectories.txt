@@ -1,0 +1,3 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/P_Aulas_2425/Ficha2_Ex8/cmake-build-debug/CMakeFiles/Ficha2_Ex8.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/P_Aulas_2425/Ficha2_Ex8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/P_Aulas_2425/Ficha2_Ex8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Estudo Exames/Exame_2324_EN_Ex1/cmake-build-debug/CMakeFiles/Exame_2324_EN_Ex1.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Estudo Exames/Exame_2324_EN_Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Estudo Exames/Exame_2324_EN_Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

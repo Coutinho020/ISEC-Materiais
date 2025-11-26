@@ -1,0 +1,3 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Programação/Desafio2/cmake-build-debug/CMakeFiles/Desafio2.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Programação/Desafio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Programação/Desafio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

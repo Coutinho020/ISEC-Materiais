@@ -1,0 +1,3 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Programação/Ficha12_Ex9/cmake-build-debug/CMakeFiles/Ficha12_Ex9.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Programação/Ficha12_Ex9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/1º Ano/Programação/Ficha12_Ex9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

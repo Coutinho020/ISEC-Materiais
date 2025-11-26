@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ficha2_Ex2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ficha2_Ex2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ficha2_Ex2-Debug-f53a1c3da6f8d402ebb0.json",
+					"name" : "Ficha2_Ex2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/P_Aulas_2425/Ficha2_Ex2/cmake-build-debug",
+		"source" : "C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/P_Aulas_2425/Ficha2_Ex2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

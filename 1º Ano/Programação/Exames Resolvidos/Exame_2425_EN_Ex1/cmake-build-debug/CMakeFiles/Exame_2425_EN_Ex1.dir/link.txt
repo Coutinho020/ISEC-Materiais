@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Exame_2425_EN_Ex1.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\Exame_2425_EN_Ex1.dir/objects.a @CMakeFiles\Exame_2425_EN_Ex1.dir\objects1
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Exame_2425_EN_Ex1.dir/objects.a -Wl,--no-whole-archive -o Exame_2425_EN_Ex1.exe -Wl,--out-implib,libExame_2425_EN_Ex1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exame_2425_EN_Ex1.dir\linkLibs.rsp

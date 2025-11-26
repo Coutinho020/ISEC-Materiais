@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(Ficha7_Ex1 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(Ficha7_Ex1 main.c agenda.c agenda.h)

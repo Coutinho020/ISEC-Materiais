@@ -1,0 +1,4 @@
+jardim 5 5 
+avanca
+colhe
+cmd
