@@ -1,0 +1,17 @@
+# ninja log v5
+13	429	7805122572021233	CMakeFiles/Ficha2_Ex1.dir/UserInterface.cpp.obj	b6a2158a28ac1c81
+6	433	7805122572043373	CMakeFiles/Ficha2_Ex1.dir/DataStore.cpp.obj	1efa9274c66205d6
+0	557	7805122573318169	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+558	659	7805122574278197	Ficha2_Ex1.exe	ee0b2a128ef6c8f8
+3	448	7805123691968131	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+449	539	7805123692832715	Ficha2_Ex1.exe	ee0b2a128ef6c8f8
+4	437	7805123887205794	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+437	534	7805123888133206	Ficha2_Ex1.exe	ee0b2a128ef6c8f8
+3	510	7805124491775513	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+520	610	7805124492745097	Ficha2_Ex1.exe	ee0b2a128ef6c8f8
+3	454	7805125279391421	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+454	549	7805125280309261	Ficha2_Ex1.exe	ee0b2a128ef6c8f8
+3	504	7805126275236952	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+504	597	7805126276135152	Ficha2_Ex1.exe	ee0b2a128ef6c8f8
+4	444	7805126965140569	CMakeFiles/Ficha2_Ex1.dir/main.cpp.obj	dc1914ed02d9a6ce
+445	541	7805126966057907	Ficha2_Ex1.exe	ee0b2a128ef6c8f8

@@ -1,0 +1,3 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/2º Ano/POO 25_26/Ficha1_Ex5b/cmake-build-debug/CMakeFiles/Ficha1_Ex5b.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/2º Ano/POO 25_26/Ficha1_Ex5b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/Cenas Curso/2º Ano/POO 25_26/Ficha1_Ex5b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

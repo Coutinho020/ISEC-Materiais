@@ -1,0 +1,15 @@
+# ninja log v5
+3	665	7859646520821439	CMakeFiles/Ficha7_Ex1.dir/main.cpp.obj	a381a731a8607882
+22	727	7859646521419336	CMakeFiles/Ficha7_Ex1.dir/ListaCompras.cpp.obj	d9495ff287de50a5
+8	507	7859619249265002	CMakeFiles/Ficha7_Ex1.dir/Coisa.cpp.obj	9cb29a3611d78f74
+601	717	7859646752501997	Ficha7_Ex1.exe	f9f19b2687af0b65
+5	600	7859646751364456	CMakeFiles/Ficha7_Ex1.dir/ListaComprasVector.cpp.obj	e89e2d2b8136875d
+8	588	7859661026960919	CMakeFiles/Ficha7_Ex1.dir/Coisa.cpp.obj	9cb29a3611d78f74
+12	662	7859661027711658	CMakeFiles/Ficha7_Ex1.dir/ListaCompras.cpp.obj	d9495ff287de50a5
+3	693	7859661028032920	CMakeFiles/Ficha7_Ex1.dir/main.cpp.obj	a381a731a8607882
+18	732	7859661028432925	CMakeFiles/Ficha7_Ex1.dir/ListaComprasVector.cpp.obj	e89e2d2b8136875d
+11	623	7859662345611445	CMakeFiles/Ficha7_Ex1.dir/ListaComprasSet.cpp.obj	2ba6b380ee22d207
+5	627	7859662345662747	CMakeFiles/Ficha7_Ex1.dir/ListaComprasVector.cpp.obj	e89e2d2b8136875d
+627	775	7859662347096359	Ficha7_Ex1.exe	2467f62151b3776b
+3	612	7859663140771847	CMakeFiles/Ficha7_Ex1.dir/ListaComprasSet.cpp.obj	2ba6b380ee22d207
+613	751	7859663142109662	Ficha7_Ex1.exe	2467f62151b3776b

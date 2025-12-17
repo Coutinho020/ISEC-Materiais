@@ -1,0 +1,27 @@
+# ninja log v5
+3	465	7817227805915706	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+8	501	7817227806284375	CMakeFiles/Ficha3_Ex3.dir/Pessoa.cpp.obj	25fdb234b97a6bcc
+501	589	7817227807140604	Ficha3_Ex3.exe	d0d0464955f6592a
+9	577	7817242062847545	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+4	586	7817242062938154	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+586	713	7817242064144415	Ficha3_Ex3.exe	bbd52185af855da6
+4	666	7817243294543584	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+12	704	7817243295009408	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+5	797	7817243842187946	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+15	844	7817243842671459	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+4	452	7817244157160532	CMakeFiles/Ficha3_Ex3.dir/Pessoa.cpp.obj	25fdb234b97a6bcc
+452	546	7817244158055275	Ficha3_Ex3.exe	bbd52185af855da6
+4	506	7817244996117700	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+9	536	7817244996448405	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+537	629	7817244997333168	Ficha3_Ex3.exe	bbd52185af855da6
+3	462	7817245433711173	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+7	468	7817245433776249	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+469	564	7817245434687490	Ficha3_Ex3.exe	bbd52185af855da6
+3	631	7817252631161914	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+3	503	7817256470388372	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+9	507	7817256470442151	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+507	603	7817256471361964	Ficha3_Ex3.exe	bbd52185af855da6
+3	485	7820863701411319	CMakeFiles/Ficha3_Ex3.dir/main.cpp.obj	2f7cabd713d42737
+486	584	7820863702359867	Ficha3_Ex3.exe	bbd52185af855da6
+3	470	7820909107898153	CMakeFiles/Ficha3_Ex3.dir/Presidencia.cpp.obj	ddaa0fa13588bc07
+470	590	7820909109046127	Ficha3_Ex3.exe	bbd52185af855da6
